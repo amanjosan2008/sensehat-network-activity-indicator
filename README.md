@@ -1,4 +1,4 @@
-# sensehat-network-activity-indicator
+# Raspberry Pi Sensehat based Network-Activity-Indicator
 Use Raspberry Pi SenseHat  to indicvate incoming or outgoing network traffic
 
 On the Raspberry Pi install the Sense Hat and power it up.
